@@ -1,3 +1,5 @@
+"""Write the one-line make.fun bounty entry to the configured output directory."""
+
 import os
 from pathlib import Path
 
